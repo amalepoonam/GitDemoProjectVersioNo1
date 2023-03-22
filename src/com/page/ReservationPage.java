@@ -32,6 +32,7 @@ public class ReservationPage {
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		// wait = new WebDriverWait(driver, 60);
 		driver.get("https://www.yosemitewestgate.com/reservations");
+		
 
 	}
 
@@ -39,6 +40,8 @@ public class ReservationPage {
 	public void verify_Title() {
 		String title = driver.getTitle();
 		System.out.println("Title:" + title);
+		System.out.println("title");
+	
 	}
 
 	@Test
