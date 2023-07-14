@@ -2,68 +2,68 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-20T20:02:22 IST" name="Default suite" finished-at="2023-03-20T20:05:03 IST" duration-ms="160894">
+  <suite started-at="2023-06-22T13:50:43 IST" name="Default suite" finished-at="2023-06-22T13:53:03 IST" duration-ms="139999">
     <groups>
     </groups>
-    <test started-at="2023-03-20T20:02:22 IST" name="Default test" finished-at="2023-03-20T20:05:03 IST" duration-ms="160894">
+    <test started-at="2023-06-22T13:50:43 IST" name="Default test" finished-at="2023-06-22T13:53:03 IST" duration-ms="139999">
       <class name="com.page.ReservationPage">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-03-20T20:02:22 IST" name="setUp" finished-at="2023-03-20T20:03:08 IST" duration-ms="45536" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-06-22T13:50:43 IST" name="setUp" finished-at="2023-06-22T13:51:23 IST" duration-ms="40363" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="Check_RoomType()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-03-20T20:03:08 IST" name="Check_RoomType" finished-at="2023-03-20T20:03:08 IST" duration-ms="49" status="PASS">
+        <test-method signature="Check_RoomType()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-06-22T13:51:23 IST" name="Check_RoomType" finished-at="2023-06-22T13:51:23 IST" duration-ms="82" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Check_RoomType -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-03-20T20:03:08 IST" name="tearDown" finished-at="2023-03-20T20:03:08 IST" duration-ms="102" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-06-22T13:51:23 IST" name="tearDown" finished-at="2023-06-22T13:51:24 IST" duration-ms="164" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-03-20T20:03:08 IST" name="setUp" finished-at="2023-03-20T20:03:39 IST" duration-ms="31428" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-06-22T13:51:24 IST" name="setUp" finished-at="2023-06-22T13:51:48 IST" duration-ms="24318" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="numOfLinkPresent()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-03-20T20:03:39 IST" name="numOfLinkPresent" finished-at="2023-03-20T20:03:39 IST" duration-ms="57" status="PASS">
+        <test-method signature="numOfLinkPresent()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-06-22T13:51:48 IST" name="numOfLinkPresent" finished-at="2023-06-22T13:51:48 IST" duration-ms="77" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- numOfLinkPresent -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-03-20T20:03:39 IST" name="tearDown" finished-at="2023-03-20T20:03:39 IST" duration-ms="83" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-06-22T13:51:48 IST" name="tearDown" finished-at="2023-06-22T13:51:48 IST" duration-ms="158" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-03-20T20:03:39 IST" name="setUp" finished-at="2023-03-20T20:04:07 IST" duration-ms="27476" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-06-22T13:51:48 IST" name="setUp" finished-at="2023-06-22T13:52:12 IST" duration-ms="23871" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyAccessibilityButton()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-03-20T20:04:07 IST" name="verifyAccessibilityButton" finished-at="2023-03-20T20:04:07 IST" duration-ms="49" status="PASS">
+        <test-method signature="verifyAccessibilityButton()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-06-22T13:52:12 IST" name="verifyAccessibilityButton" finished-at="2023-06-22T13:52:12 IST" duration-ms="98" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyAccessibilityButton -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-03-20T20:04:07 IST" name="tearDown" finished-at="2023-03-20T20:04:07 IST" duration-ms="138" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-06-22T13:52:12 IST" name="tearDown" finished-at="2023-06-22T13:52:12 IST" duration-ms="150" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-03-20T20:04:07 IST" name="setUp" finished-at="2023-03-20T20:04:33 IST" duration-ms="25849" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-06-22T13:52:12 IST" name="setUp" finished-at="2023-06-22T13:52:39 IST" duration-ms="26462" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyModifyButton()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-03-20T20:04:33 IST" name="verifyModifyButton" finished-at="2023-03-20T20:04:33 IST" duration-ms="44" status="PASS">
+        <test-method signature="verifyModifyButton()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-06-22T13:52:39 IST" name="verifyModifyButton" finished-at="2023-06-22T13:52:39 IST" duration-ms="68" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyModifyButton -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-03-20T20:04:33 IST" name="tearDown" finished-at="2023-03-20T20:04:33 IST" duration-ms="87" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-06-22T13:52:39 IST" name="tearDown" finished-at="2023-06-22T13:52:39 IST" duration-ms="155" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-03-20T20:04:33 IST" name="setUp" finished-at="2023-03-20T20:05:03 IST" duration-ms="29834" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-06-22T13:52:39 IST" name="setUp" finished-at="2023-06-22T13:53:03 IST" duration-ms="23705" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verify_Title()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-03-20T20:05:03 IST" name="verify_Title" finished-at="2023-03-20T20:05:03 IST" duration-ms="18" status="PASS">
+        <test-method signature="verify_Title()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-06-22T13:53:03 IST" name="verify_Title" finished-at="2023-06-22T13:53:03 IST" duration-ms="22" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_Title -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-03-20T20:05:03 IST" name="tearDown" finished-at="2023-03-20T20:05:03 IST" duration-ms="86" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.page.ReservationPage@865dd6]" started-at="2023-06-22T13:53:03 IST" name="tearDown" finished-at="2023-06-22T13:53:03 IST" duration-ms="234" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
